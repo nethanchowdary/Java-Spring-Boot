@@ -1,0 +1,108 @@
+2022-04-13 13:25:47.482  INFO 7452 --- [restartedMain] c.e.taskmongo.TaskmongoApplication       : Starting TaskmongoApplication using Java 15.0.1 on Sai-PC with PID 7452 (C:\Users\netha\OneDrive\Desktop\sai\taskmongo\taskmongo\build\classes\java\main started by netha in C:\Users\netha\OneDrive\Desktop\sai\taskmongo\taskmongo)
+2022-04-13 13:25:47.484 DEBUG 7452 --- [restartedMain] c.e.taskmongo.TaskmongoApplication       : Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-13 13:25:47.485  INFO 7452 --- [restartedMain] c.e.taskmongo.TaskmongoApplication       : No active profile set, falling back to 1 default profile: "default"
+2022-04-13 13:25:47.593  INFO 7452 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-04-13 13:25:47.596  INFO 7452 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-04-13 13:25:48.803  INFO 7452 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-04-13 13:25:48.806  INFO 7452 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.
+2022-04-13 13:25:48.906  INFO 7452 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 89 ms. Found 1 MongoDB repository interfaces.
+2022-04-13 13:25:49.833  INFO 7452 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-04-13 13:25:49.852  INFO 7452 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-04-13 13:25:49.853  INFO 7452 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-13 13:25:50.012  INFO 7452 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-04-13 13:25:50.012  INFO 7452 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2415 ms
+2022-04-13 13:25:50.239  INFO 7452 --- [restartedMain] org.mongodb.driver.cluster               : Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms'}
+2022-04-13 13:25:50.341  INFO 7452 --- [cluster-rtt-ClusterId{value='6256820603298258ef392b9d', description='null'}-localhost:27017] org.mongodb.driver.connection            : Opened connection [connectionId{localValue:1, serverValue:145}] to localhost:27017
+2022-04-13 13:25:50.341  INFO 7452 --- [cluster-ClusterId{value='6256820603298258ef392b9d', description='null'}-localhost:27017] org.mongodb.driver.connection            : Opened connection [connectionId{localValue:2, serverValue:144}] to localhost:27017
+2022-04-13 13:25:50.342  INFO 7452 --- [cluster-ClusterId{value='6256820603298258ef392b9d', description='null'}-localhost:27017] org.mongodb.driver.cluster               : Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=13, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=32442500}
+2022-04-13 13:25:50.518  INFO 7452 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-04-13 13:25:52.192  INFO 7452 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-13 13:25:52.206  INFO 7452 --- [restartedMain] c.e.taskmongo.TaskmongoApplication       : Started TaskmongoApplication in 5.331 seconds (JVM running for 6.004)
+2022-04-13 13:30:25.536  INFO 16648 --- [restartedMain] c.e.taskmongo.TaskmongoApplication       : Starting TaskmongoApplication using Java 15.0.1 on Sai-PC with PID 16648 (C:\Users\netha\OneDrive\Desktop\sai\taskmongo\taskmongo\build\classes\java\main started by netha in C:\Users\netha\OneDrive\Desktop\sai\taskmongo\taskmongo)
+2022-04-13 13:30:25.539  INFO 16648 --- [restartedMain] c.e.taskmongo.TaskmongoApplication       : No active profile set, falling back to 1 default profile: "default"
+2022-04-13 13:30:25.623  INFO 16648 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-04-13 13:30:25.624  INFO 16648 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-04-13 13:30:26.873  INFO 16648 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-04-13 13:30:26.877  INFO 16648 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.
+2022-04-13 13:30:26.963  INFO 16648 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 77 ms. Found 1 MongoDB repository interfaces.
+2022-04-13 13:30:27.981  INFO 16648 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-04-13 13:30:28.004  INFO 16648 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-04-13 13:30:28.005  INFO 16648 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-13 13:30:28.168  INFO 16648 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-04-13 13:30:28.168  INFO 16648 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2543 ms
+2022-04-13 13:30:28.457  INFO 16648 --- [restartedMain] org.mongodb.driver.cluster               : Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms'}
+2022-04-13 13:30:28.652  INFO 16648 --- [cluster-rtt-ClusterId{value='6256831ccdb3492505cfc32c', description='null'}-localhost:27017] org.mongodb.driver.connection            : Opened connection [connectionId{localValue:1, serverValue:146}] to localhost:27017
+2022-04-13 13:30:28.654  INFO 16648 --- [cluster-ClusterId{value='6256831ccdb3492505cfc32c', description='null'}-localhost:27017] org.mongodb.driver.connection            : Opened connection [connectionId{localValue:2, serverValue:147}] to localhost:27017
+2022-04-13 13:30:28.654  INFO 16648 --- [cluster-ClusterId{value='6256831ccdb3492505cfc32c', description='null'}-localhost:27017] org.mongodb.driver.cluster               : Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=13, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=35311400}
+2022-04-13 13:30:28.894  INFO 16648 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-04-13 13:30:30.614  INFO 16648 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-13 13:30:30.627  INFO 16648 --- [restartedMain] c.e.taskmongo.TaskmongoApplication       : Started TaskmongoApplication in 5.69 seconds (JVM running for 6.413)
+2022-04-13 13:31:07.261  INFO 3424 --- [restartedMain] c.e.taskmongo.TaskmongoApplication       : Starting TaskmongoApplication using Java 15.0.1 on Sai-PC with PID 3424 (C:\Users\netha\OneDrive\Desktop\sai\taskmongo\taskmongo\build\classes\java\main started by netha in C:\Users\netha\OneDrive\Desktop\sai\taskmongo\taskmongo)
+2022-04-13 13:31:07.264  INFO 3424 --- [restartedMain] c.e.taskmongo.TaskmongoApplication       : No active profile set, falling back to 1 default profile: "default"
+2022-04-13 13:31:07.395  INFO 3424 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-04-13 13:31:07.396  INFO 3424 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-04-13 13:31:08.520  INFO 3424 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-04-13 13:31:08.522  INFO 3424 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.
+2022-04-13 13:31:08.603  INFO 3424 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 74 ms. Found 1 MongoDB repository interfaces.
+2022-04-13 13:31:09.506  INFO 3424 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-04-13 13:31:09.526  INFO 3424 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-04-13 13:31:09.526  INFO 3424 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-13 13:31:09.672  INFO 3424 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-04-13 13:31:09.672  INFO 3424 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2275 ms
+2022-04-13 13:31:09.905  INFO 3424 --- [restartedMain] org.mongodb.driver.cluster               : Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms'}
+2022-04-13 13:31:10.009  INFO 3424 --- [cluster-rtt-ClusterId{value='625683459331ac4c9f1c21c9', description='null'}-localhost:27017] org.mongodb.driver.connection            : Opened connection [connectionId{localValue:1, serverValue:148}] to localhost:27017
+2022-04-13 13:31:10.009  INFO 3424 --- [cluster-ClusterId{value='625683459331ac4c9f1c21c9', description='null'}-localhost:27017] org.mongodb.driver.connection            : Opened connection [connectionId{localValue:2, serverValue:149}] to localhost:27017
+2022-04-13 13:31:10.010  INFO 3424 --- [cluster-ClusterId{value='625683459331ac4c9f1c21c9', description='null'}-localhost:27017] org.mongodb.driver.cluster               : Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=13, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=30024600}
+2022-04-13 13:31:10.168  INFO 3424 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-04-13 13:31:11.953  INFO 3424 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-13 13:31:11.968  INFO 3424 --- [restartedMain] c.e.taskmongo.TaskmongoApplication       : Started TaskmongoApplication in 5.31 seconds (JVM running for 6.012)
+2022-04-13 13:32:57.539 DEBUG 18404 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2022-04-13 13:32:57.752 DEBUG 18404 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : 11 mappings in 'requestMappingHandlerMapping'
+2022-04-13 13:32:58.521 DEBUG 18404 --- [restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**, /swagger-ui*/**] in 'resourceHandlerMapping'
+2022-04-13 13:32:58.538 DEBUG 18404 --- [restartedMain] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 2 @ExceptionHandler, 1 ResponseBodyAdvice
+2022-04-13 13:33:59.958  INFO 16788 --- [restartedMain] c.e.taskmongo.TaskmongoApplication       : Starting TaskmongoApplication using Java 15.0.1 on Sai-PC with PID 16788 (C:\Users\netha\OneDrive\Desktop\sai\taskmongo\taskmongo\build\classes\java\main started by netha in C:\Users\netha\OneDrive\Desktop\sai\taskmongo\taskmongo)
+2022-04-13 13:33:59.959  INFO 16788 --- [restartedMain] c.e.taskmongo.TaskmongoApplication       : No active profile set, falling back to 1 default profile: "default"
+2022-04-13 13:34:00.047  INFO 16788 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-04-13 13:34:00.047  INFO 16788 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-04-13 13:34:01.248  INFO 16788 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-04-13 13:34:01.252  INFO 16788 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.
+2022-04-13 13:34:01.331  INFO 16788 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 73 ms. Found 1 MongoDB repository interfaces.
+2022-04-13 13:34:02.299  INFO 16788 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-04-13 13:34:02.316  INFO 16788 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-04-13 13:34:02.317  INFO 16788 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-13 13:34:02.473  INFO 16788 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-04-13 13:34:02.473  INFO 16788 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2425 ms
+2022-04-13 13:34:02.699  INFO 16788 --- [restartedMain] org.mongodb.driver.cluster               : Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms'}
+2022-04-13 13:34:02.799  INFO 16788 --- [cluster-rtt-ClusterId{value='625683f2cb40c97806f14d14', description='null'}-localhost:27017] org.mongodb.driver.connection            : Opened connection [connectionId{localValue:2, serverValue:154}] to localhost:27017
+2022-04-13 13:34:02.799  INFO 16788 --- [cluster-ClusterId{value='625683f2cb40c97806f14d14', description='null'}-localhost:27017] org.mongodb.driver.connection            : Opened connection [connectionId{localValue:1, serverValue:155}] to localhost:27017
+2022-04-13 13:34:02.800  INFO 16788 --- [cluster-ClusterId{value='625683f2cb40c97806f14d14', description='null'}-localhost:27017] org.mongodb.driver.cluster               : Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=13, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=30693500}
+2022-04-13 13:34:02.984  INFO 16788 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-04-13 13:34:04.718  INFO 16788 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-13 13:34:04.734  INFO 16788 --- [restartedMain] c.e.taskmongo.TaskmongoApplication       : Started TaskmongoApplication in 5.393 seconds (JVM running for 6.206)
+2022-04-13 13:34:22.376  INFO 16788 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-13 13:34:22.377  INFO 16788 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-04-13 13:34:22.380  INFO 16788 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 3 ms
+2022-04-13 13:34:23.144  INFO 16788 --- [http-nio-8080-exec-8] o.springdoc.api.AbstractOpenApiResource  : Init duration for springdoc-openapi is: 357 ms
+2022-04-13 15:58:02.475  INFO 7924 --- [restartedMain] c.e.taskmongo.TaskmongoApplication       : Starting TaskmongoApplication using Java 15.0.1 on Sai-PC with PID 7924 (C:\Users\netha\OneDrive\Desktop\sai\taskmongo\taskmongo\build\classes\java\main started by netha in C:\Users\netha\OneDrive\Desktop\sai\taskmongo\taskmongo)
+2022-04-13 15:58:02.477  INFO 7924 --- [restartedMain] c.e.taskmongo.TaskmongoApplication       : No active profile set, falling back to 1 default profile: "default"
+2022-04-13 15:58:02.570  INFO 7924 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-04-13 15:58:02.571  INFO 7924 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-04-13 15:58:03.800  INFO 7924 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-04-13 15:58:03.805  INFO 7924 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data MongoDB repositories in DEFAULT mode.
+2022-04-13 15:58:03.898  INFO 7924 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 85 ms. Found 1 MongoDB repository interfaces.
+2022-04-13 15:58:04.885  INFO 7924 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-04-13 15:58:04.909  INFO 7924 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-04-13 15:58:04.909  INFO 7924 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-13 15:58:05.075  INFO 7924 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-04-13 15:58:05.076  INFO 7924 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2504 ms
+2022-04-13 15:58:05.364  INFO 7924 --- [restartedMain] org.mongodb.driver.cluster               : Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms'}
+2022-04-13 15:58:05.483  INFO 7924 --- [cluster-rtt-ClusterId{value='6256a5b5e84cc74e4d528074', description='null'}-localhost:27017] org.mongodb.driver.connection            : Opened connection [connectionId{localValue:2, serverValue:156}] to localhost:27017
+2022-04-13 15:58:05.483  INFO 7924 --- [cluster-ClusterId{value='6256a5b5e84cc74e4d528074', description='null'}-localhost:27017] org.mongodb.driver.connection            : Opened connection [connectionId{localValue:1, serverValue:157}] to localhost:27017
+2022-04-13 15:58:05.485  INFO 7924 --- [cluster-ClusterId{value='6256a5b5e84cc74e4d528074', description='null'}-localhost:27017] org.mongodb.driver.cluster               : Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, minWireVersion=0, maxWireVersion=13, maxDocumentSize=16777216, logicalSessionTimeoutMinutes=30, roundTripTimeNanos=35801700}
+2022-04-13 15:58:05.673  INFO 7924 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-04-13 15:58:07.656  INFO 7924 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-04-13 15:58:07.678  INFO 7924 --- [restartedMain] c.e.taskmongo.TaskmongoApplication       : Started TaskmongoApplication in 5.811 seconds (JVM running for 6.634)
+2022-04-13 15:58:39.384  INFO 7924 --- [http-nio-8080-exec-3] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-13 15:58:39.385  INFO 7924 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-04-13 15:58:39.386  INFO 7924 --- [http-nio-8080-exec-3] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-04-13 15:58:40.135  INFO 7924 --- [http-nio-8080-exec-7] o.springdoc.api.AbstractOpenApiResource  : Init duration for springdoc-openapi is: 371 ms
